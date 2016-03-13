@@ -41,7 +41,7 @@ print('height at max velocity',hArray[50])
 print(np.where(vArray==100))
 print('max height',np.amax(hArray))
 print(np.argmax(hArray))
-print(np.where(hArray[1000:]==0))
+#print(np.where(hArray[1000:]==0))
 #plt.plot(timeArray,hArray)
 #plt.show()
 
@@ -54,11 +54,5 @@ print(np.amin(height))
 #print(vArray[37348])
 
 
-#plt.plot(timeList,tempList)
 
-#plt.ylabel('Temperature / K')
-#plt.xlabel('Time / year')
-#plt.title('Aqua Earth')
-#plt.grid(True)
-#plt.show()
 
