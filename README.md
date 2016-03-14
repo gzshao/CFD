@@ -4,3 +4,4 @@
 ##### Course Info can be found at http://openedx.seas.gwu.edu/courses/GW/MAE6286/2014_fall/info
 
 [equation](https://github.com/gzshao/CFD/blob/master/equation.png)
+Format: ![Alt Text](url)
