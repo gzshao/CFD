@@ -3,5 +3,4 @@
 ##### This is my answer to Module 1 in modeling rocket dynamics.
 ##### Course Info can be found at http://openedx.seas.gwu.edu/courses/GW/MAE6286/2014_fall/info
 
-[equation](https://github.com/gzshao/CFD/blob/master/equation.png)
-!Format: ![Alt Text](https://github.com/gzshao/CFD/blob/master/equation.png)
+![Alt Text](https://github.com/gzshao/CFD/blob/master/equation.png)
