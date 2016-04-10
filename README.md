@@ -13,4 +13,4 @@
 * Cd=0.15, drag coefficient
 * The fuel is consumed at 20 Kg/s at constant rate.
 
-
+\begin{equation} \frac{J^n{i+\frac{1}{2}}\left(\frac{F^n{i+1}-F^n{i}}{\Delta x}\right)-J^n{i-\frac{1}{2}}\left(\frac{F^ni-F^n{i-1}}{\Delta x}\right)}{\Delta x}\end{equation}
