@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+# homework #1 for rocket status considering gravity and drag from air
+
 vmax=136.
 L=11.
 rhomax=250.
